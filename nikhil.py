@@ -1,3 +1,5 @@
+'''This calculater devloped by Nikhil Sikarwar'''
+'''First year python project'''
 def operation(x,y):
     if z=="1":
         add(x,y)
